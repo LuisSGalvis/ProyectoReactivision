@@ -1,3 +1,4 @@
+
 class FiducialHandler {
   Errores errores;
   String mensaje = "Conecta tu PC y usa los marcadores para resolver los errores.";
