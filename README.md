@@ -17,6 +17,7 @@ La interacción busca representar una experiencia educativa, tangible y lúdica 
 
 ## Funcionamiento del sistema
 
+0. Presiona S para ir al espacio fisico y A para conectarte e iniciar el programa.
 1. Al iniciar, el programa genera aleatoriamente tres errores técnicos simulados en el computador conectado.
 2. Los errores se muestran en pantalla con una breve explicación y el número del marcador que puede solucionarlos.
 3. El estudiante debe colocar los marcadores físicos correctos frente a la cámara.
